@@ -50,6 +50,7 @@ function App() {
   return (
     <>
       <h1>My Agora States</h1>
+      <div>123123</div>
       <Form addDiscussion={addDiscussion}></Form>
       <Discussions
         discussions={discussions}
